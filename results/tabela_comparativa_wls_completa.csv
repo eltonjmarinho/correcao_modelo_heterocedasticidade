@@ -1,0 +1,11 @@
+﻿Métrica,Modelo OLS (Original),Modelo WLS (Corrigido)
+R² Ajustado,0.9204,0.9467
+Coef. Intercepto,2.5041,2.7578
+Std Err (Intercepto),0.5819,0.1900
+Coef. X,1.7721,1.7318
+Std Err (X),0.0524,0.0413
+---,---,---
+Teste Breusch-Pagan (p-valor),0.0000,0.8482
+Teste de White (p-valor),0.0002,0.0137
+Teste de Park (p-valor),0.0000,0.0521
+Teste de Glejser (p-valor),0.0000,0.9131
