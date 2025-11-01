@@ -55,4 +55,5 @@ Ao executar `main.py`, o script irá:
 A tabela comparativa e o gráfico de resíduos permitirão:
 - **Diagnosticar a heterocedasticidade**: Os p-valores baixos nos testes para o modelo OLS original confirmam o problema.
 - **Verificar a correção**: Os p-valores altos nos testes para o modelo WLS (quando aplicados corretamente aos resíduos transformados) indicam que a heterocedasticidade foi corrigida. Visualmente, o gráfico de resíduos do WLS deve apresentar uma dispersão aleatória.
+
 - **Comparar a eficiência**: O modelo WLS geralmente apresentará erros-padrão menores e um R² Ajustado maior, indicando estimativas mais precisas e um melhor ajuste.
